@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jat:home|Door43 (jat)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jat|d43-jat repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jat/archive/master.zip|d43-jat.zip]]
+
+**Recent Changes**
+{{changes>ns = jat}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jat|Ethnologue data]]
+
